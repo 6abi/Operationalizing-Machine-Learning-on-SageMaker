@@ -12,6 +12,7 @@ For this project, you should perform all of the Sagemaker steps using Sagemaker 
 The provided dataset is the dogbreed classification dataset which can be found in the classroom.
 The dataset was upload into S3 bucket
 
+### The dog breed dataset for this was uploaded to a newly created S3 bucket, successfully
 - ![bucket](https://github.com/6abi/Operationalizing-Machine-Learning-on-SageMaker/blob/main/prints/bucket_create.PNG)
 - ![dataset](https://github.com/6abi/Operationalizing-Machine-Learning-on-SageMaker/blob/main/prints/dataset.PNG)
 
